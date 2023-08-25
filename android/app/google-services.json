@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "421395205320",
+    "project_id": "login-9949b",
+    "storage_bucket": "login-9949b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421395205320:android:3e6e85a4f06095925ca9fd",
+        "android_client_info": {
+          "package_name": "com.mycompany.login1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421395205320-k86r2nftk7adhj9vghpmrmqejj7u0ocb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3A53Ki7CEZ2G6-Rx26QhJFBUyYqiE5yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421395205320-k86r2nftk7adhj9vghpmrmqejj7u0ocb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421395205320-9l58dvksqohsne3o41f9cls6m7d7hde3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.login1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421395205320:android:bb612d37818fc4e55ca9fd",
+        "android_client_info": {
+          "package_name": "com.ubercab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421395205320-13lpqjqok9ojao7aps6jltagrkldsj9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubercab",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "421395205320-k86r2nftk7adhj9vghpmrmqejj7u0ocb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3A53Ki7CEZ2G6-Rx26QhJFBUyYqiE5yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421395205320-k86r2nftk7adhj9vghpmrmqejj7u0ocb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421395205320-9l58dvksqohsne3o41f9cls6m7d7hde3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.login1"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4133558227846810~6462124777"
+    }
+  ],
+  "configuration_version": "1"
+}
